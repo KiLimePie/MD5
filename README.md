@@ -2,7 +2,7 @@
 Hashes all files in a directory and searches for desired hash within all files.
 
 # Requirements
-*Python 3
+* Python 3
 * 'hashlib' library (should come with Python by default)
 
 # Usage
